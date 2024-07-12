@@ -58,4 +58,4 @@ New users or items with no interaction history are hard to recommend accurately.
 ##### Sparsity:
 In systems with many items and users, the user-item interaction matrix can be very sparse, making it difficult to find similarities.
 
-[Example Jupyter notebook]  https://github.com/BhadraNivedita/Movie-Recommendation-Engine-using-scikit-learn/blob/main/Collaborative%20recommendation%20engine.ipynb)
+[Example Jupyter notebook] (https://github.com/BhadraNivedita/Movie-Recommendation-Engine-using-scikit-learn/blob/main/Collaborative%20recommendation%20engine.ipynb)
