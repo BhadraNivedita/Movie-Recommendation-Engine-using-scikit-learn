@@ -27,6 +27,9 @@ Tailored to individual user preferences based on item features.
 Requires detailed and high-quality features of items, which can be complex and resource-intensive.
 ##### Limited Discovery:
 Users may not be exposed to items outside their existing preferences, leading to a narrow recommendation range (filter bubble).
+
+[Example Jupyter notebook]
+
 ### Collaborative Filtering Recommendation Engine
 Principle: Collaborative filtering recommends items based on the interactions and preferences of similar users.
 
@@ -54,3 +57,5 @@ Can introduce users to items they might not have considered based on other users
 New users or items with no interaction history are hard to recommend accurately.
 ##### Sparsity:
 In systems with many items and users, the user-item interaction matrix can be very sparse, making it difficult to find similarities.
+
+[Example Jupyter notebook]
