@@ -28,7 +28,7 @@ Requires detailed and high-quality features of items, which can be complex and r
 ##### Limited Discovery:
 Users may not be exposed to items outside their existing preferences, leading to a narrow recommendation range (filter bubble).
 
-[Example Jupyter notebook]
+[Example Jupyter notebook](https://github.com/BhadraNivedita/Movie-Recommendation-Engine-using-scikit-learn/blob/main/Content_based_Recommendation_system_movie_dataset.ipynb)
 
 ### Collaborative Filtering Recommendation Engine
 Principle: Collaborative filtering recommends items based on the interactions and preferences of similar users.
